@@ -36,5 +36,20 @@
   .nav-item {
     margin: 0px 15px;
   }
+  /* css for jumbotron */
+  .herobg {
+    background-image: url("../images/02-hero-bg.jpg");
+    background-size: cover;
+    height: 30vh;
+    position: relative;
+    border-radius: 0 !important;
+  }
   
+  .hero {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+    color: red;
+  }
   
