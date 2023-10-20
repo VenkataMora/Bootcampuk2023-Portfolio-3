@@ -52,4 +52,97 @@
     z-index: 10;
     color: red;
   }
+  /* css for containers */
+  .myinfo .col-10{
+    text-align: justify;
+    padding-left: 40px;
+    }
+    
+    
+    .col-2 {
+      border-right: 2px solid gray;
+    }
+    
+    .myinfo .col-10{
+      text-align: justify;
+    }
+    
+    .image {
+      height: 100px;
+      display: flex;
+      width: 230px;
+      padding-left: 30px;
+    }
+    
+    .col-2 h3 {
+      text-align: right;
+      font-size: xx-large;
+      font-weight: bolder;
+    }
+    
+    .col-7 p {
+      text-align: justify;
+      width: 970px;
+    }
+    
+    .col p {
+      padding-top: 35px;
+      font-size: larger;
+      font-weight: bolder;
+    }
+    
+    .img1 {
+      width: 1195px;
+      height: 300px;
+      margin-left: 40px;
+      margin-bottom: 25px;
+    }
+    
+    .img2 {
+      width: 590px;
+      height: 200px;
+      margin-left: 42px;
+      margin-bottom: 25px;
+    }
+    
+    .img3 {
+      width: 590px;
+      height: 200px;
+      margin-left: 12px;
+      margin-bottom: 25px;
+    }
+    
+    img[src$=".jpg"] {
+      border: 5px solid red;
+    }
+    
+    img[src$=".jpeg"] {
+      border: 5px solid red;
+    }
+    
+    .footer li {
+      list-style-type: none;
+      display: inline-block;
+      padding: 0px 30px;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+    
+    #contactme {
+      margin-top: 10px;
+      text-align: end;
+    }
+    
+    
+    .mydetails {
+      position: relative;
+    }
+    
+    .footer {
+      position: absolute;
+      transform: translate(65%, 25%);
+      padding-top: 10px;
+    }
   
