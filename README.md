@@ -29,11 +29,11 @@ This repository contains my portfolio website created using the Bootstrap CSS Fr
 ## Usage
 To clone the repository, use the following command:
 ```bash
-git clone [https://github.com/VenkataMora/Bootcampuk2023-Portfolio-3.git](https://github.com/VenkataMora/Bootcampuk2023-Portfolio-3.git)
+git clone (https://github.com/VenkataMora/Bootcampuk2023-Portfolio-3.git)
 ```
 ## Deployment
 
-The portfolio website is deployed using GitHub Pages and can be accessed at [https://your-username.github.io/Bootstrap-Portfolio](https://venkatamora.github.io/Bootcampuk2023-Portfolio-3/)
+The portfolio website is deployed using GitHub Pages and can be accessed at (https://venkatamora.github.io/Bootcampuk2023-Portfolio-3/)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
