@@ -7,6 +7,7 @@ This repository contains my portfolio website created using the Bootstrap CSS Fr
 - [Folder Structure](#folder-structure)
 - [Features](#features)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Deployment](#deployment)
 - [License](#license)
 
