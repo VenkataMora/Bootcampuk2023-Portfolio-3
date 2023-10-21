@@ -119,12 +119,12 @@
     img[src$=".jpeg"] {
       border: 5px solid red;
     }
-    img[src$=".jpg"]:hover {
+    img[src$=".jpg"]:hover, a[src$=".jpg"]:hover {
       opacity: 0.60;
       transform: scale(0.90);
     }
     
-    img[src$=".jpeg"]:hover {
+    a[src$=".jpeg"]:hover {
       opacity: 0.60;
       transform: scale(0.90);
     }
