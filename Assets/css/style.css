@@ -119,7 +119,11 @@
     img[src$=".jpeg"] {
       border: 5px solid red;
     }
-    
+    img[src$=".jpeg"]:hover {
+      opacity: 0.60;
+      transform: scale(0.90);
+    }
+    /* css  for footer */
     .footer li {
       list-style-type: none;
       display: inline-block;
